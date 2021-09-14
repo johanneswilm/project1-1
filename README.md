@@ -1,5 +1,7 @@
 ### Features:
 
+Forget this list. It's stupid. 
+
 1. Log in button
 2. Log out button 
 3. Register
